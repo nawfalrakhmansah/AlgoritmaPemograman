@@ -32,3 +32,4 @@ public class DurasiBelajar {
         System.out.println("Durasi tersingkat: " + tersingkat + " menit");
     }
 }
+

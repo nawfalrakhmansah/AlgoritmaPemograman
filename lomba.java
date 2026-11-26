@@ -1,7 +1,7 @@
 public class lomba {
      public static void main(String[] args) {
 
-        int nilaiInformatika = 80;
+        int nilaiInformatika = 85;
         boolean pernahMenang = true;
 
         if (nilaiInformatika >= 85 || pernahMenang == true) {
